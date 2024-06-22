@@ -118,7 +118,7 @@ create table Employee(Employee_id integer auto_increment , First_Name varchar(30
  ("Shelley", "Higgins", "SHIGGINS", "515.123.8080", "2002-06-07", "AC_MGR", 12008.00, 0.00, 101,110),
  ("William","Geitz", "WGIETS", "515.123.8181", "2002-06-07", "AC_ACCOUNT", 8300.00, 0.00, 205,110);
  
-
+Select*from Employee;
 
 
 
