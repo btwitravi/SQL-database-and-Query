@@ -117,9 +117,7 @@ create table Employee(Employee_id integer auto_increment , First_Name varchar(30
  ("Herman","Baer", "HBAER", "515.123.8888","2002-06-07", "PR_REP",10000.00, 0.00, 101, 70),
  ("Shelley", "Higgins", "SHIGGINS", "515.123.8080", "2002-06-07", "AC_MGR", 12008.00, 0.00, 101,110),
  ("William","Geitz", "WGIETS", "515.123.8181", "2002-06-07", "AC_ACCOUNT", 8300.00, 0.00, 205,110);
- /* Q1. Write a Query to find those Employees whose Salaries less than 6000.
- Return Full Name(first_Name and last name), and Salary;
-
+ 
 
 
 
